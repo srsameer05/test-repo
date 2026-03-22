@@ -247,3 +247,5 @@ You should learn next:
 1️⃣ Services (request/response communication)
 2️⃣ Parameters
 3️⃣ Writing your first ROS2 nodegit
+
+This change is done to fix issue #6
